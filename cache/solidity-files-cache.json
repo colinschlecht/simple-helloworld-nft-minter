@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/colin/Flatiron/projects/nftstuff/hw-nft/contracts/HelloWorldNFT.sol": {
-      "lastModificationDate": 1621649312350,
-      "contentHash": "cde6dbde72207133797427f87fc0fe36",
+      "lastModificationDate": 1621649566613,
+      "contentHash": "6c261b81a58a55dc27f29d19ccce6985",
       "sourceName": "contracts/HelloWorldNFT.sol",
       "solcConfig": {
         "version": "0.7.3",
@@ -35,7 +35,7 @@
         "^0.7.3"
       ],
       "artifacts": [
-        "MyNFT"
+        "HelloWorldNFT"
       ]
     },
     "/Users/colin/Flatiron/projects/nftstuff/hw-nft/node_modules/@openzeppelin/contracts/token/ERC721/ERC721.sol": {
