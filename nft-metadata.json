@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "mood",
+      "value": "done"
+    },
+    {
+      "trait_type": "chill",
+      "value": "none"
+    }
+  ],
+  "description": "A representation Erik's discontentment. The most expressive you'll ever see.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUNRhDRLRw5imLmevwihNA8qsg7xVGTr8iwfBCaQ7cy83",
+  "name": "Very done Erik"
+}
